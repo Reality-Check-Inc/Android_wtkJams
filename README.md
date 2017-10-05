@@ -12,8 +12,8 @@ Following are the links to the current Google Play pages
 
 | Module           | Version | Date |
 |------------------|---------|------|
-| wtkJams         |  [1.0.7 (41)](https://play.google.com/store/apps/details?id=com.reality_check_inc.wtkjams.singer)  | 2017/09/11 |
-| wtkJams KE      |  [1.0.7 (41)](https://play.google.com/store/apps/details?id=com.reality_check_inc.wtkjamske) | 2017/09/11 |
+| wtkJams         |  [1.0.8 (42)](https://play.google.com/store/apps/details?id=com.reality_check_inc.wtkjams.singer)  | 2017/09/14 |
+| wtkJams KE      |  [1.0.8 (42)](https://play.google.com/store/apps/details?id=com.reality_check_inc.wtkjamske) | 2017/09/14 |
 
 ## wtkJams - Full Description
 
